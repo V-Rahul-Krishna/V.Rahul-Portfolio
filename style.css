@@ -1,0 +1,30 @@
+html{
+    background-color:#E8FFD7;
+    font-family:"Cambria,serif";
+    color:#508D4E;
+    font-size:20px;
+}
+.heading{
+    color:#3E5F44;
+    text-align:center;
+    font-size:4rem;
+    font-weight:bold;
+
+
+}
+.text{
+    font-color:#5E936C;
+    
+    font-size:3rem;
+    font-style:italic;
+}
+a{
+    color:#5E936C;
+}
+.box{
+    border-width:3px,3px,3px,3px;
+    border-color:#3E5F44;
+    
+    padding:0px;
+    margin:2px;
+}
